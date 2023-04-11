@@ -7,8 +7,8 @@ Designer, Developer, Deployer
 Since beginning my journey as a programmer nearly 15 years ago, I've created and deployed fully fledged, professional web and phone applications. I have a hardwired desire to be better, an instinct for beautifully created apps, a strong ambition to make interactive experiences, and I'm able to use my knowledge and initiative to deliver high quality results.
 
 * 🌍  I'm based in Austin, Tx
-* 🖥️  See my portfolio at [https://aldenjenkins.com](http://aldenjenkins.com)
-* 🧠  Checkout my dotfiles here: [https://github.com/aldenjenkins/dotfiles/]
+* 🖥️  See my portfolio at [https://aldenjenkins.com](https://aldenjenkins.com)
+* 🧠  Checkout my dotfiles [here](https://github.com/aldenjenkins/dotfiles/)
 * 🤝  I'm open to collaborating on Interesting Projects
 
 <a href="https://www.github.com/aldenjenkins" target="_blank" rel="noreferrer"><img
