@@ -9,7 +9,6 @@ Since beginning my journey as a programmer nearly 15 years ago, I've created and
 * 🌍  I'm based in Austin, Tx
 * 🖥️  See my portfolio at [https://aldenjenkins.com](https://aldenjenkins.com)
 * 🧠  Checkout my dotfiles [here](https://github.com/aldenjenkins/dotfiles/)
-* 🤝  I'm open to collaborating on Interesting Projects
 
 <a href="https://www.github.com/aldenjenkins" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/aldenjenkins?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/aldenjenks" target="_blank" rel="noreferrer"><img
