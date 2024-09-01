@@ -11,9 +11,7 @@ Since beginning my journey as a programmer nearly 15 years ago, I've created and
 * 🧠  Checkout my dotfiles [here](https://github.com/aldenjenkins/dotfiles/)
 
 <a href="https://www.github.com/aldenjenkins" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/aldenjenkins?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/aldenjenks" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/aldenjenks?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+src="https://img.shields.io/github/followers/aldenjenkins?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Favorites
 
 <p align="left">
